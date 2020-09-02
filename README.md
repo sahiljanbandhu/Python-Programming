@@ -12,5 +12,5 @@ This repository contains all solutions to HackerRank practice problems with Pyth
         - Python Division | [Problem](https://www.hackerrank.com/challenges/python-division/problem) | [Solution](https://github.com/sahiljanbandhu/Python-Programming/blob/master/Introduction/Python%20Division/Solution.py) |
         - Loops | [Problem](https://www.hackerrank.com/challenges/python-loops/problem) | [Solution](https://github.com/sahiljanbandhu/Python-Programming/blob/master/Introduction/Loops/Solution.py) |
         - Write a function | [Problem](https://www.hackerrank.com/challenges/write-a-function/problem) | [Solution](https://github.com/sahiljanbandhu/Python-Programming/blob/master/Introduction/Write%20a%20function/Solution.py) |
-        - Print Function | [Problem](https://www.hackerrank.com/challenges/python-print/problem) | [Solution](https://github.com/sahiljanbandhu/Python-Programming/blob/master/Introduction/Print%20Function/Solution.py) | ad
+        - Print Function | [Problem](https://www.hackerrank.com/challenges/python-print/problem) | [Solution](https://github.com/sahiljanbandhu/Python-Programming/blob/master/Introduction/Print%20Function/Solution.py) | 
 
